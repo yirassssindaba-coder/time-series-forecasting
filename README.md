@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0ea5e9,100:8b5cf6&text=Time%20Series%20Forecast%20Master%20API&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%208%20Minimal%20API%20%7C%20Master%20CRUD%20%2B%20RBAC%20%2B%20Import%2FExport%20%7C%20Forecasting%20ETS%20%26%20SeasonalNaive&descAlignY=58&descSize=16" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=0EA5E9&center=true&vCenter=true&width=1000&lines=REST+API+template+siap+pakai+%E2%9C%85+Auth+JWT+%E2%9C%85+RBAC+%E2%9C%85+Rate+Limit;CRUD+lengkap%3A+bulk%2C+filter%2C+sort%2C+cursor%2Fpage%2C+ETag%2C+audit%2C+soft-delete;Time+Series%3A+import+CSV%2FJSON+%E2%86%92+forecast+ETS%2FSeasonalNaive+%E2%86%92+MAE%2FRMSE+%F0%9F%93%88;Swagger+UI+ready+%7C+SQLite+local+DB+%7C+Outbox+%2B+DLQ+%F0%9F%9B%A1%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=.NET+8+Minimal+API+%E2%9C%85+JWT+%2B+RBAC+%E2%9C%85+Swagger+UI;Import+CSV%2FJSON+%E2%86%92+ETS+%2F+SeasonalNaive+%E2%86%92+MAE+%2F+RMSE+%F0%9F%93%88" />
 
 <br/>
 
