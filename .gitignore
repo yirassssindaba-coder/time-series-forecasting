@@ -1,0 +1,26 @@
+# Build
+**/bin/
+**/obj/
+
+# Rider/VS
+.idea/
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data
+storage/
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets
+appsettings.*.json
+!appsettings.json
+
+# Reports
+reports/
