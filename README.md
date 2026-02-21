@@ -1,237 +1,345 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0ea5e9,100:8b5cf6&amp;text=Time%20Series%20Forecast%20Master%20API&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=.NET%208%20Minimal%20API%20%7C%20Master%20CRUD%20%2B%20RBAC%20%2B%20Import%2FExport%20%7C%20Forecasting%20ETS%20%26%20SeasonalNaive&amp;descAlignY=58&amp;descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:16a34a,100:22c55e&amp;text=Azka%20Garden%20v2&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Plant%20Store%20%7C%20QRIS%20Payments%20%2B%20Live%20Order%20Tracking&amp;descAlignY=58" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=2400&amp;pause=700&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=.NET+8+Minimal+API+%E2%9C%85+JWT+%2B+RBAC+%E2%9C%85+Swagger+UI;Import+CSV%2FJSON+%E2%86%92+ETS+%2F+SeasonalNaive+%E2%86%92+MAE+%2F+RMSE+%F0%9F%93%88" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=700&amp;color=16A34A&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Modern+Plant+Store+E-commerce+for+Indonesia;QRIS+(DANA%2FOVO%2FShopeePay)%2C+Kartu+Visa%2FMastercard%2C+VA+BCA%2FMandiri;Webhook+auto-update+order+%E2%86%92+PAID+%2B+ledger+saldo;Live+location+tracking+pesanan+di+peta+(Mapbox)" />
 
-<br/>
-
-<!-- Hero Image -->
-<img src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200&amp;h=280&amp;fit=crop" alt="Time series" width="100%" style="border-radius:14px;" />
-
-<br/><br/>
-
-<b>📈 Time Series Forecast Master API</b><br/>
-<i>Service forecasting deret waktu + template “final master” CRUD untuk membangun backend production-ready dengan cepat.</i><br/><br/>
-
-<!-- Premium Buttons -->
-<a href="https://github.com/yirassssindaba-coder/time-series-forecasting">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repository-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-<a href="https://github.com/yirassssindaba-coder/time-series-forecasting/issues">
-  <img src="https://img.shields.io/badge/%F0%9F%90%9B%20Issues-8b5cf6?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- Tech Badges -->
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Minimal%20API-0f172a?style=for-the-badge&amp;logo=swagger&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/EF%20Core-8b5cf6?style=for-the-badge&amp;logo=nuget&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-2563eb?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white"/>
-
-<br/>
-
-<!-- Repo Insights -->
-<img src="https://img.shields.io/github/last-commit/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&amp;label=%F0%9F%95%92%20Last%20Update&amp;color=0ea5e9" />
-<img src="https://img.shields.io/github/languages/top/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&amp;label=%F0%9F%A7%A0%20Lang&amp;color=8b5cf6" />
-
-<br/><br/>
-
+<!-- Badges -->
 <p>
-<b>Forecasting</b> • <b>CRUD Master</b> • <b>RBAC</b> • <b>Audit</b> • <b>Import/Export CSV/XLSX/PDF</b> • <b>Outbox + DLQ</b>
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-API-111827?logo=express&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-optional-3ECF8E?logo=supabase&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-Midtrans%20%7C%20Xendit-16a34a" />
+  <img src="https://img.shields.io/badge/QRIS-DANA%20%7C%20OVO%20%7C%20Bank-16a34a" />
+  <img src="https://img.shields.io/badge/Mapbox-Live%20Tracking-111827?logo=mapbox&amp;logoColor=white" />
+</p>
+
+<p align="center">
+  Website e-commerce tanaman hias: checkout otomatis (QRIS/e-wallet/kartu/VA) + tracking lokasi pesanan real-time.
 </p>
 
 </div>
 
 ---
 
-## 🧭 Table of Contents
-- [✨ What you get](#-what-you-get)
-- [🚀 Quick start](#-quick-start)
-- [🧠 Data flow](#-data-flow)
-- [🧪 API at a glance](#-api-at-a-glance)
-- [📦 Storage & konfigurasi](#-storage--konfigurasi)
-- [🧪 Testing](#-testing)
-- [🗺️ Project structure](#-project-structure)
-- [🔐 Security notes](#-security-notes)
-- [📌 Roadmap](#-roadmap)
+## Table of Contents
+- [Preview](#preview)
+- [Ringkasan](#ringkasan)
+- [Fitur Utama](#fitur-utama)
+- [Routes & Pages](#routes--pages)
+- [Arsitektur & Data Flow](#arsitektur--data-flow)
+- [API Endpoints](#api-endpoints)
+- [Tech Stack](#tech-stack)
+- [Struktur Project](#struktur-project)
+- [Installation & Setup](#installation--setup)
+- [Konfigurasi Mapbox](#konfigurasi-mapbox)
+- [Setup Payment Gateway](#setup-payment-gateway)
+- [Setup Database Supabase](#setup-database-supabase)
+- [Keamanan](#keamanan)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## ✨ What you get
+## Preview
 
-### ✅ Master CRUD template (resource: `items`)
-- Bulk ops, filtering, sorting, pagination (page/size + cursor)
-- Projection `select=` + include/expand `include=category,tags`
-- Lifecycle: soft-delete/restore/archive + purge
-- Workflow/actions (submit/approve/publish/verify/dll)
-- Idempotency, optimistic locking (ETag), audit logs
-- Import/Export **CSV / XLSX / PDF** (CsvHelper, ClosedXML, QuestPDF)
+> Tambahkan screenshot/gif ke folder `./assets/` lalu update path di bawah agar README terlihat makin “premium”.
 
-### 📈 Time Series module (resource: `series`)
-- Import points dari **CSV/JSON**
-- Forecast methods:
-  - **Seasonal Naive**
-  - **ETS (Exponential Smoothing)**
-- Simpan forecast runs + metrics **MAE** & **RMSE**
+| Home | Checkout | Tracking |
+|---|---|---|
+| `assets/preview-home.png` | `assets/preview-checkout.png` | `assets/preview-tracking.png` |
 
-### 🛡️ Ops & reliability
-- Auth JWT + refresh/session + **RBAC**
-- Rate limiting (built-in)
-- Outbox worker + retry/backoff + **DLQ**
-- Activity logs + health checks
-- Swagger docs
-
-> Semua poin di atas berasal dari README repo (fitur & endpoint) dan konfigurasi default.  
-
----
-
-## 🚀 Quick start
-
-### 1) Prerequisites
-- .NET SDK 8
-
-### 2) Run (Windows PowerShell)
-```powershell
-dotnet restore
-dotnet build
-dotnet run --project .\src\TimeSeriesForecast.Api\TimeSeriesForecast.Api.csproj
-```
-
-Swagger UI (default):
-- `http://localhost:5000/swagger`
-
-### 3) Default admin (seeded on first run)
-- Email: `admin@example.com`
-- Password: `Admin123!`
-
-### 4) Set JWT secret (recommended)
-> Dev default di `appsettings.json` itu **bukan** untuk production. Set env var:
-
-```powershell
-$env:Jwt__Key="YOUR_LONG_RANDOM_SECRET"
+Contoh embed (gantikan file-nya sesuai assets kamu):
+```md
+![Home](./assets/preview-home.png)
 ```
 
 ---
 
-## 🧠 Data flow
+## Ringkasan
+
+**Azka Garden v2** adalah website e-commerce tanaman hias dengan:
+- 🛒 katalog + cart + checkout
+- 💳 pembayaran otomatis via **Midtrans Snap** / **Xendit Invoice** (QRIS/e-wallet/kartu/VA tergantung aktivasi merchant)
+- 📍 **live order tracking** berbasis Mapbox + timeline status
+- 🧾 **ledger saldo** internal untuk rekonsiliasi (admin)
+- 🧪 bisa jalan **demo mode** (tanpa Supabase & tanpa payment key) untuk presentasi/portfolio
+
+---
+
+## Fitur Utama
+
+- 🛍️ **E-commerce**: products (demo), detail, rekomendasi, cart persisten (localStorage)
+- 💳 **Pembayaran**:
+  - Midtrans Snap: token + redirect (butuh `MIDTRANS_SERVER_KEY` + `VITE_MIDTRANS_CLIENT_KEY`)
+  - Xendit Invoice: invoice URL + success redirect (butuh `XENDIT_SECRET_KEY`)
+- 🧾 **Webhook**: status otomatis jadi **PAID** + ledger credit saat payment terkonfirmasi
+- 📍 **Tracking**:
+  - `/tracking/:orderId` menampilkan peta + lokasi terakhir + timeline status
+  - admin bisa push event status + lat/lng (simulasi kurir)
+- 🛡️ **Fallback demo mode**: backend punya in-memory store, frontend punya localStorage store
+
+---
+
+## Routes & Pages
+
+### Customer
+- `/` → Home
+- `/products` → Produk
+- `/products/:id` → Detail Produk
+- `/cart` → Keranjang
+- `/checkout` → Checkout (create order + create payment)
+- `/orders/success` → Halaman sukses (return dari provider)
+- `/tracking-hub` → Cari orderId untuk tracking
+- `/tracking/:orderId` → Tracking detail (map + timeline)
+
+### Admin (Demo)
+- `/admin` → Admin Home
+- `/admin/dashboard` → Ringkasan & KPI
+- `/admin/orders` → Daftar order + push tracking event
+- `/admin/payments` → Ledger saldo
+
+---
+
+## Arsitektur & Data Flow
 
 ```mermaid
 flowchart LR
-  C["Client (Swagger / Postman / App)"] --> A["Auth (JWT)"]
-  A --> I["Items CRUD API"]
-  C --> S["Series API"]
-  S --> P["Import points (CSV/JSON)"]
-  P --> F["Forecast (ETS / SeasonalNaive)"]
-  F --> M["Metrics (MAE, RMSE)"]
-  I --> DB["SQLite (tsf_master.db)"]
-  S --> DB
-  F --> DB
+  U["Customer (React UI)"] -->|Browse / Cart / Checkout| FE["Frontend (Vite + React)"]
+  A["Admin (React UI)"] -->|Orders / Tracking / Ledger| FE
+
+  FE -->|Create Order| API["Express API (Node.js)"]
+  FE -->|Create Payment| API
+
+  API -->|Create transaction| PAY["Midtrans Snap / Xendit Invoice"]
+  PAY -->|Webhook: PAID| API
+
+  API -->|Upsert orders| DB["Supabase Postgres (optional)"]
+  API -->|Insert tracking_events| DB
+  API -->|Insert ledger| DB
+
+  DB -->|Read tracking timeline| FE
+  API -->|Fallback store| MEM["In-memory (demo mode)"]
 ```
 
----
-
-## 🧪 API at a glance
-
-### Auth
-- `POST /api/v1/auth/register`
-- `POST /api/v1/auth/login`
-- `POST /api/v1/auth/refresh`
-- `GET  /api/v1/auth/sessions`
-- `POST /api/v1/auth/sessions/{id}/revoke`
-
-### Items (base: `/api/v1/items`)
-Core:
-- `POST /items` • `GET /items` • `GET /items/{id}` • `PUT /items/{id}` • `PATCH /items/{id}`
-- `DELETE /items/{id}` (soft delete; `?force=true` untuk hard)
-
-Bulk:
-- `POST /items/bulk` • `PATCH /items/bulk` • `DELETE /items/bulk`
-
-Import/Export:
-- `POST /items/import` (CSV/JSON)
-- `GET  /items/export?format=csv|xlsx|pdf`
-
-### Time series (base: `/api/v1/series`)
-- `POST /series` • `GET /series` • `GET /series/{id}` • `DELETE /series/{id}`
-
-Points:
-- `POST /series/{id}/points/import?mode=replace|append`
-- `GET  /series/{id}/points?take=2000`
-
-Forecast:
-- `POST /series/{id}/forecast`
-  - body contoh:
-    ```json
-    { "method": "ets", "horizon": 30, "holdout": 7, "alpha": 0.35, "seasonLength": 7 }
-    ```
-- `GET /series/{id}/forecasts`
+> Kalau Supabase tidak diset, backend otomatis pakai **in-memory store** (reset saat server restart).
 
 ---
 
-## 📦 Storage & konfigurasi
+## API Endpoints
 
-Default config (lihat `appsettings.json`):
-- DB: `Data Source=tsf_master.db`
-- Storage root: `../../storage`
-- Rate limit default: `PermitLimit=60` per `WindowSeconds=60`
+Base URL (default): `http://localhost:8787`
 
-> Untuk production: ganti DB ke PostgreSQL + EF migrations, dan simpan secrets via env/secret store.
+### Health
+- `GET /health` → `{ "ok": true }`
 
----
-
-## 🧪 Testing
-
-```powershell
-dotnet test
+### Orders
+- `POST /api/orders`
+```json
+{
+  "orderId": "AZKA-2026-0001",
+  "items": [{ "id": "p1", "qty": 2 }],
+  "total": 250000,
+  "paymentChannel": "QRIS"
+}
 ```
 
+### Payments
+- `POST /api/payments/midtrans/create`
+```json
+{ "orderId": "AZKA-2026-0001", "amount": 250000 }
+```
+
+- `POST /api/payments/xendit/create`
+```json
+{ "orderId": "AZKA-2026-0001", "amount": 250000 }
+```
+
+### Webhooks
+- `POST /api/webhooks/midtrans`
+- `POST /api/webhooks/xendit`
+
+### Tracking
+- `GET /api/tracking/:orderId` → `{ "orderId": "...", "events": [], "latest": {} }`
+- `POST /api/tracking/:orderId/events`
+```json
+{ "status": "allocated", "description": "Kurir ditugaskan", "lat": -6.2, "lng": 106.8 }
+```
+
+### Ledger
+- `GET /api/ledger` → `{ "rows": [], "balance": 0 }`
+
 ---
 
-## 🗺️ Project structure
+## Tech Stack
 
-```text
-TimeSeriesForecast.Master/
+- **Frontend:** React 18, TypeScript 5, Vite 6, Tailwind 3, Framer Motion
+- **Backend:** Node.js + Express, axios, dotenv
+- **Maps:** Mapbox GL JS
+- **DB (opsional):** Supabase (Postgres) + schema SQL
+- **Payments:** Midtrans Snap / Xendit Invoice
+
+---
+
+## Struktur Project
+
+```txt
+azka-garden-modern/
+├─ backend/
+│  ├─ server.js                 # orders, payments, webhooks, tracking, ledger
+│  └─ package.json
+├─ supabase/
+│  └─ schema.sql                # orders, tracking_events, ledger
 ├─ src/
-│  ├─ TimeSeriesForecast.Core/
-│  └─ TimeSeriesForecast.Api/
-├─ tests/
-│  └─ TimeSeriesForecast.Tests/
-├─ scripts/
-│  ├─ build.ps1
-│  ├─ run.ps1
-│  └─ reset-db.ps1
-└─ README.md
+│  ├─ pages/
+│  │  ├─ admin/                 # AdminHome, Dashboard, Orders, Payments
+│  │  └─ ...                    # Home, Products, Cart, Checkout, Tracking
+│  ├─ lib/                      # api, cart, payments, tracking, storage, supabaseClient
+│  └─ data/                     # demo products
+├─ .env.example
+└─ package.json
 ```
 
 ---
 
-## 🔐 Security notes
+## Installation & Setup
 
-- Jangan pakai `Jwt:Key` default dari `appsettings.json` untuk production.
-- Pastikan endpoint admin dilindungi RBAC.
-- Kalau expose ke publik, tambahkan:
-  - HTTPS + reverse proxy
-  - WAF/rate-limit tambahan
-  - logging + monitoring eksternal
+### Prerequisites
+```txt
+Node.js 18+ (recommended)
+npm
+```
+
+### Quick Start (Windows PowerShell)
+
+1) Siapkan env:
+```powershell
+cd azka-garden-modern
+copy .env.example .env
+# Minimal untuk jalan: VITE_API_BASE_URL=http://localhost:8787
+```
+
+2) Jalankan backend:
+```powershell
+npm install --prefix backend
+node backend/server.js
+```
+
+3) Jalankan frontend:
+```powershell
+npm install
+npm run dev
+```
+
+- Frontend: `http://localhost:5173`
+- Backend: `http://localhost:8787`
+
+> Tips: kamu juga bisa pakai `npm run backend` dari root (scripts sudah tersedia).
 
 ---
 
-## 📌 Roadmap
-- [ ] Forecast methods tambahan (ARIMA/Prophet/LightGBM/LSTM) *(opsional)*
-- [ ] PostgreSQL + migrations
-- [ ] Docker compose (API + DB)
-- [ ] Background job dashboard untuk outbox/DLQ
+## Konfigurasi Mapbox
+
+Tracking pakai Mapbox. Isi di `.env`:
+```txt
+VITE_MAPBOX_TOKEN=YOUR_TOKEN
+```
+
+Kalau token kosong, halaman tracking bisa gagal render peta (untuk demo, isi token atau matikan bagian map di UI).
 
 ---
 
-<div align="center">
+## Setup Payment Gateway
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=1900&amp;pause=700&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Build+your+backend+faster+%E2%9A%A1+Forecast+your+series+%F0%9F%93%88+Ship+with+confidence+%F0%9F%9B%A1%EF%B8%8F" />
+### Midtrans (Snap)
 
-</div>
+Isi `.env`:
+```txt
+MIDTRANS_SERVER_KEY=...
+VITE_MIDTRANS_CLIENT_KEY=...
+MIDTRANS_IS_PRODUCTION=false
+VITE_MIDTRANS_SNAP_URL=https://app.sandbox.midtrans.com/snap/snap.js
+```
+
+Webhook URL:
+```txt
+https://YOUR_DOMAIN/api/webhooks/midtrans
+```
+
+### Xendit (Invoice)
+
+Isi `.env`:
+```txt
+XENDIT_SECRET_KEY=...
+XENDIT_WEBHOOK_TOKEN=...      # header x-callback-token
+FRONTEND_BASE_URL=https://YOUR_FRONTEND_DOMAIN
+```
+
+Webhook URL:
+```txt
+https://YOUR_DOMAIN/api/webhooks/xendit
+```
+
+> Untuk testing webhook lokal, gunakan tunnel seperti ngrok/Cloudflared lalu set webhook URL dari dashboard payment.
+
+---
+
+## Setup Database Supabase
+
+Supabase bersifat **opsional**.
+
+1) Jalankan SQL di `supabase/schema.sql` pada project Supabase kamu  
+2) Isi `.env`:
+```txt
+# Frontend (optional)
+VITE_SUPABASE_URL=...
+VITE_SUPABASE_ANON_KEY=...
+
+# Backend (server-side only)
+SUPABASE_URL=...
+SUPABASE_SERVICE_ROLE_KEY=...
+```
+
+> **Service Role Key** hanya untuk backend. Jangan taruh di frontend.
+
+---
+
+## Keamanan
+
+- **Midtrans:** verifikasi `signature_key` (SHA512).  
+  Dev-only bypass: `MIDTRANS_SKIP_SIGNATURE=true` (JANGAN di production).
+- **Xendit:** verifikasi header `x-callback-token` (set `XENDIT_WEBHOOK_TOKEN`).
+- **Supabase:** kunci service role hanya di backend.
+
+---
+
+## Deployment
+
+- **Frontend:** Vercel / Netlify / static hosting
+- **Backend:** Render / Railway / VPS
+- Pastikan webhook URL **HTTPS** dan env production sudah benar.
+
+---
+
+## Contributing
+
+```bash
+1. Fork repository
+2. git checkout -b feature/awesome
+3. git commit -m "feat: awesome"
+4. git push origin feature/awesome
+5. Open Pull Request
+```
+
+---
+
+## License
+
+Belum ada file `LICENSE` di zip ini.  
+Kalau mau open-source, tambahkan `LICENSE` (mis. MIT) dan update badge.
