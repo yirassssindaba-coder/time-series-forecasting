@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0ea5e9,100:8b5cf6&text=Time%20Series%20Forecast%20Master%20API&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%208%20Minimal%20API%20%7C%20Master%20CRUD%20%2B%20RBAC%20%2B%20Import%2FExport%20%7C%20Forecasting%20ETS%20%26%20SeasonalNaive&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0ea5e9,100:8b5cf6&amp;text=Time%20Series%20Forecast%20Master%20API&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=.NET%208%20Minimal%20API%20%7C%20Master%20CRUD%20%2B%20RBAC%20%2B%20Import%2FExport%20%7C%20Forecasting%20ETS%20%26%20SeasonalNaive&amp;descAlignY=58&amp;descSize=16" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=.NET+8+Minimal+API+%E2%9C%85+JWT+%2B+RBAC+%E2%9C%85+Swagger+UI;Import+CSV%2FJSON+%E2%86%92+ETS+%2F+SeasonalNaive+%E2%86%92+MAE+%2F+RMSE+%F0%9F%93%88" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=2400&amp;pause=700&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=.NET+8+Minimal+API+%E2%9C%85+JWT+%2B+RBAC+%E2%9C%85+Swagger+UI;Import+CSV%2FJSON+%E2%86%92+ETS+%2F+SeasonalNaive+%E2%86%92+MAE+%2F+RMSE+%F0%9F%93%88" />
 
 <br/>
 
 <!-- Hero Image -->
-<img src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=280&fit=crop" alt="Time series" width="100%" style="border-radius:14px;" />
+<img src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200&amp;h=280&amp;fit=crop" alt="Time series" width="100%" style="border-radius:14px;" />
 
 <br/><br/>
 
@@ -18,27 +18,27 @@
 
 <!-- Premium Buttons -->
 <a href="https://github.com/yirassssindaba-coder/time-series-forecasting">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repository-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 <a href="https://github.com/yirassssindaba-coder/time-series-forecasting/issues">
-  <img src="https://img.shields.io/badge/%F0%9F%90%9B%20Issues-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%90%9B%20Issues-8b5cf6?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
 <!-- Tech Badges -->
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minimal%20API-0f172a?style=for-the-badge&logo=swagger&logoColor=white"/>
-<img src="https://img.shields.io/badge/EF%20Core-8b5cf6?style=for-the-badge&logo=nuget&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-2563eb?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Minimal%20API-0f172a?style=for-the-badge&amp;logo=swagger&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/EF%20Core-8b5cf6?style=for-the-badge&amp;logo=nuget&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-2563eb?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white"/>
 
 <br/>
 
 <!-- Repo Insights -->
-<img src="https://img.shields.io/github/last-commit/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&label=%F0%9F%95%92%20Last%20Update&color=0ea5e9" />
-<img src="https://img.shields.io/github/languages/top/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&label=%F0%9F%A7%A0%20Lang&color=8b5cf6" />
+<img src="https://img.shields.io/github/last-commit/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&amp;label=%F0%9F%95%92%20Last%20Update&amp;color=0ea5e9" />
+<img src="https://img.shields.io/github/languages/top/yirassssindaba-coder/time-series-forecasting?style=for-the-badge&amp;label=%F0%9F%A7%A0%20Lang&amp;color=8b5cf6" />
 
 <br/><br/>
 
@@ -232,6 +232,6 @@ TimeSeriesForecast.Master/
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1900&pause=700&color=8B5CF6&center=true&vCenter=true&width=920&lines=Build+your+backend+faster+%E2%9A%A1+Forecast+your+series+%F0%9F%93%88+Ship+with+confidence+%F0%9F%9B%A1%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=1900&amp;pause=700&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Build+your+backend+faster+%E2%9A%A1+Forecast+your+series+%F0%9F%93%88+Ship+with+confidence+%F0%9F%9B%A1%EF%B8%8F" />
 
 </div>
